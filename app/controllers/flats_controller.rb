@@ -16,6 +16,7 @@ class FlatsController < ApplicationController
     end
   end
 
+
   # GET /flats/1
   def show
   end
